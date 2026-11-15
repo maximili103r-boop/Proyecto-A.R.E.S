@@ -1,0 +1,420 @@
+2026-08-20T23:55:43.896654600 - Error al abrir "C:\Users\amoam\Desktop\Undertale.url": Cannot run program ""C:\Users\amoam\Desktop\Undertale.url"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-20T23:55:54.597848 - Abierto: "C:\Users\amoam\Desktop\Mario Kart 64.exe"
+2026-08-20T23:59:52.131571100 - Error al abrir "C:\Users\amoam\Desktop\Apache NetBeans IDE 20.lnk": Cannot run program ""C:\Users\amoam\Desktop\Apache NetBeans IDE 20.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-20T23:59:53.626892300 - Error al abrir "C:\Users\amoam\Desktop\Obsidian.lnk": Cannot run program ""C:\Users\amoam\Desktop\Obsidian.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-20T23:59:55.128338600 - Error al abrir "C:\Users\amoam\Desktop\CaptiOCR.lnk": Cannot run program ""C:\Users\amoam\Desktop\CaptiOCR.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-20T23:59:56.626149 - Error al abrir "C:\Users\amoam\Desktop\Notepad++.lnk": Cannot run program ""C:\Users\amoam\Desktop\Notepad++.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-21T00:00:13.554083 - Error al abrir "C:\Users\amoam\Desktop\Undertale.url": Cannot run program ""C:\Users\amoam\Desktop\Undertale.url"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-21T00:00:15.133202700 - Abierto: "C:\Users\amoam\Desktop\Mario Kart 64.exe"
+2026-08-21T00:00:31.282275400 - Abierto: notepad.exe
+2026-08-21T00:00:32.693452400 - Abierto: calc.exe
+2026-08-21T00:00:55.019030100 - Abierto: notepad.exe
+2026-08-21T00:00:56.502124200 - Abierto: calc.exe
+2026-08-21T00:01:02.021726400 - Cerrado suavemente.
+2026-08-21T11:51:34.616697300 - Abierto: notepad.exe
+2026-08-21T11:51:36.017458100 - Abierto: calc.exe
+2026-08-21T12:05:54.647707900 - Abierto: notepad.exe
+2026-08-21T12:05:56.077522300 - Abierto: calc.exe
+2026-08-21T12:05:58.847586100 - ✅ Perfil 'Trabajo' cerrado.
+2026-08-21T12:06:00.958915600 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-21T12:06:01.187440200 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-21T12:06:02.361108300 - ✅ Todas las aplicaciones cerradas.
+2026-08-21T12:06:16.765778700 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-21T12:06:19.681103900 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-21T12:06:19.744322100 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-21T12:06:35.704380100 - ⚠️ C:\Program Files (x86)\PICC\Pcw.exe ya está abierta.
+2026-08-21T12:06:37.204135900 - ⚠️ C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe ya está abierta.
+2026-08-21T12:06:38.704139800 - ⚠️ C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe ya está abierta.
+2026-08-21T12:06:45.136625400 - ⚠️ C:\Program Files (x86)\PICC\Pcw.exe ya está abierta.
+2026-08-21T12:06:46.637494600 - ⚠️ C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe ya está abierta.
+2026-08-21T12:06:48.135595300 - ⚠️ C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe ya está abierta.
+2026-08-21T12:06:49.230674700 - ✅ Perfil 'max' cerrado.
+2026-08-21T12:06:50.936112800 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-21T12:06:52.436417300 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-21T12:06:53.937204 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-21T12:07:01.909368500 - Cerrado suavemente.
+2026-08-21T12:07:02.412132700 - Cerrado suavemente.
+2026-08-21T12:07:02.913539600 - Cerrado suavemente.
+2026-08-21T12:07:02.913539600 - ✅ Perfil 'max' cerrado.
+2026-08-21T12:08:10.520201900 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-21T12:08:10.586407700 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-21T12:08:12.528795600 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-21T12:08:24.290997200 - Cerrado suavemente.
+2026-08-21T12:08:24.792654800 - Cerrado suavemente.
+2026-08-21T12:08:25.294294200 - Cerrado suavemente.
+2026-08-21T12:08:25.295292100 - ✅ Perfil 'xd' cerrado.
+2026-08-21T12:08:44.208546200 - ✅ Todas las aplicaciones cerradas.
+2026-08-21T12:09:39.708492800 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-21T12:09:41.208481800 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-21T12:09:42.741699800 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-21T12:09:44.423263900 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-21T12:10:02.820445300 - Cerrado suavemente.
+2026-08-21T12:10:03.321660100 - Cerrado suavemente.
+2026-08-21T12:10:03.823143400 - Cerrado suavemente.
+2026-08-21T12:10:04.326119400 - Cerrado suavemente.
+2026-08-21T12:10:04.326119400 - ✅ Perfil 'prueba' cerrado.
+2026-08-23T13:03:09.343523400 - Error al abrir "C:\Users\amoam\Desktop\Apache NetBeans IDE 20.lnk": Cannot run program ""C:\Users\amoam\Desktop\Apache NetBeans IDE 20.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-23T13:03:10.838871500 - Error al abrir "C:\Users\amoam\Desktop\Obsidian.lnk": Cannot run program ""C:\Users\amoam\Desktop\Obsidian.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-23T13:03:12.339079800 - Error al abrir "C:\Users\amoam\Desktop\CaptiOCR.lnk": Cannot run program ""C:\Users\amoam\Desktop\CaptiOCR.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-23T13:03:13.839147500 - Error al abrir "C:\Users\amoam\Desktop\Notepad++.lnk": Cannot run program ""C:\Users\amoam\Desktop\Notepad++.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-23T13:03:16.357866 -  Perfil 'musica' cerrado.
+2026-08-23T13:03:21.551078 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-23T13:03:23.055272300 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-23T13:03:26.852460800 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-23T13:03:27.081951600 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-23T13:03:45.023706200 - Cerrado suavemente.
+2026-08-23T13:03:45.526759900 - Cerrado suavemente.
+2026-08-23T13:03:46.027632300 - Cerrado suavemente.
+2026-08-23T13:03:46.529253200 - Cerrado suavemente.
+2026-08-23T13:03:46.529253200 -  Todas las aplicaciones cerradas.
+2026-08-23T13:05:42.653516500 - ⚠️ No hay procesos abiertos para el modo: prueba
+2026-08-23T13:05:44.216162 - ⚠️ No hay procesos abiertos para el modo: prueba
+2026-08-23T13:05:44.423730300 - ⚠️ No hay procesos abiertos para el modo: prueba
+2026-08-23T13:05:44.644923900 - ⚠️ No hay procesos abiertos para el modo: prueba
+2026-08-23T13:05:48.353600600 -  Todas las aplicaciones cerradas.
+2026-08-23T17:52:01.910375100 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-23T17:52:03.400326600 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-23T17:52:04.899990600 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-23T17:52:11.506710200 - Cerrado suavemente.
+2026-08-23T17:52:12.010178400 - Cerrado suavemente.
+2026-08-23T17:52:12.514623600 - Cerrado suavemente.
+2026-08-23T17:52:12.515790400 -  Perfil 'max' cerrado.
+2026-08-23T17:52:17.555874800 -  Todas las aplicaciones cerradas.
+2026-08-23T17:52:51.927510200 -  Todas las aplicaciones cerradas.
+2026-08-23T17:52:55.685457100 - ⚠️ No hay procesos abiertos para el modo: musica
+2026-08-25T10:03:01.942622900 - Abierto: notepad.exe
+2026-08-25T10:03:03.445539800 - Abierto: calc.exe
+2026-08-25T10:03:07.088624800 -  Perfil 'Trabajo' cerrado.
+2026-08-25T10:03:09.598294900 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:03:09.774096200 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:03:09.996190200 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:03:10.204023400 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:03:10.390097200 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:03:11.098720100 -  Todas las aplicaciones cerradas.
+2026-08-25T10:03:11.285825100 -  Todas las aplicaciones cerradas.
+2026-08-25T10:03:11.467326300 -  Todas las aplicaciones cerradas.
+2026-08-25T10:03:11.677606200 -  Todas las aplicaciones cerradas.
+2026-08-25T10:03:16.791857 - Error al abrir "C:\Users\amoam\Desktop\Apache NetBeans IDE 20.lnk": Cannot run program ""C:\Users\amoam\Desktop\Apache NetBeans IDE 20.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-25T10:03:18.291741200 - Error al abrir "C:\Users\amoam\Desktop\Obsidian.lnk": Cannot run program ""C:\Users\amoam\Desktop\Obsidian.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-25T10:03:19.794669600 - Error al abrir "C:\Users\amoam\Desktop\CaptiOCR.lnk": Cannot run program ""C:\Users\amoam\Desktop\CaptiOCR.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-25T10:03:21.291761700 - Error al abrir "C:\Users\amoam\Desktop\Notepad++.lnk": Cannot run program ""C:\Users\amoam\Desktop\Notepad++.lnk"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-25T10:03:22.963394800 - ⚠️ No hay procesos abiertos para el modo: musica
+2026-08-25T10:03:25.064475600 - Error al abrir "C:\Users\amoam\Desktop\Undertale.url": Cannot run program ""C:\Users\amoam\Desktop\Undertale.url"": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-08-25T10:03:29.433297 - ⚠️ No hay procesos abiertos para el modo: musica
+2026-08-25T10:03:31.462258100 - Abierto: "C:\Users\amoam\Desktop\Mario Kart 64.exe"
+2026-08-25T10:03:43.455537 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-25T10:03:43.500881900 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-25T10:03:45.162831900 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-25T10:03:54.071251 - Cerrado suavemente.
+2026-08-25T10:03:54.574325 - Cerrado suavemente.
+2026-08-25T10:03:55.078146500 - Cerrado suavemente.
+2026-08-25T10:03:55.078146500 -  Perfil 'xd' cerrado.
+2026-08-25T10:04:00.950300500 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-25T10:04:02.445217900 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-25T10:04:03.949610700 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-25T10:04:09.447334600 - Cerrado suavemente.
+2026-08-25T10:04:09.950076200 - Cerrado suavemente.
+2026-08-25T10:04:10.450893800 - Cerrado suavemente.
+2026-08-25T10:04:10.450893800 -  Perfil 'xd' cerrado.
+2026-08-25T10:07:12.141837100 - Abierto: notepad.exe
+2026-08-25T10:07:13.598865200 - Abierto: calc.exe
+2026-08-25T10:07:15.385711700 -  Todas las aplicaciones cerradas.
+2026-08-25T10:07:15.711804200 -  Todas las aplicaciones cerradas.
+2026-08-25T10:07:15.959500800 -  Todas las aplicaciones cerradas.
+2026-08-25T10:07:16.237403300 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:07:16.422465500 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:07:16.599319 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:07:16.773492400 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:07:16.952477500 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:07:17.134132 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:07:17.338448200 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-25T10:07:23.533460 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-25T10:07:25.377808300 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-25T10:07:27.590093200 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-25T10:07:33.914433500 - Cerrado suavemente.
+2026-08-25T10:07:34.415658100 - Cerrado suavemente.
+2026-08-25T10:07:34.918026800 - Cerrado suavemente.
+2026-08-25T10:07:34.919031 -  Perfil 'xd' cerrado.
+2026-08-28T22:54:43.181033700 - Abierto: notepad.exe
+2026-08-28T22:54:44.618879500 - Abierto: calc.exe
+2026-08-28T22:54:52.105274400 -  Perfil 'Trabajo' cerrado.
+2026-08-28T22:54:55.183624600 -  Todas las aplicaciones cerradas.
+2026-08-28T22:54:58.968279500 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-28T22:55:02.089525600 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-28T22:55:02.292108300 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-28T22:55:30.348592200 - Cerrado suavemente.
+2026-08-28T22:55:30.849914300 - Cerrado suavemente.
+2026-08-28T22:55:31.353014400 - Cerrado suavemente.
+2026-08-28T22:55:31.353998900 -  Todas las aplicaciones cerradas.
+2026-08-28T22:55:39.015299500 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-28T22:55:42.213154600 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-28T22:55:42.217153400 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-28T22:55:43.516489900 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-28T22:55:59.859510200 - Cerrado suavemente.
+2026-08-28T22:56:00.363527800 - Cerrado suavemente.
+2026-08-28T22:56:00.865528100 - Cerrado suavemente.
+2026-08-28T22:56:01.367917900 - Cerrado suavemente.
+2026-08-28T22:56:01.368878 -  Todas las aplicaciones cerradas.
+2026-08-28T23:27:28.630006900 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:30.302209900 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:31.337945100 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:31.544383600 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:31.723101300 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:31.917336400 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:32.103167100 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:32.302559500 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:27:32.532529 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:28:45.479480400 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-28T23:54:44.191202900 - Abierto: C:\Program Files (x86)\PICC\Pcw.exe
+2026-08-28T23:54:45.715842500 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-28T23:54:47.178400400 - Abierto: C:\Users\amoam\AppData\Local\CaptiOCR\CaptiOCR.exe
+2026-08-28T23:54:48.670441800 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-08-28T23:55:15.019469 - Cerrado suavemente.
+2026-08-28T23:55:15.523619700 - Cerrado suavemente.
+2026-08-28T23:55:16.026920900 - Cerrado suavemente.
+2026-08-28T23:55:16.528204400 - Cerrado suavemente.
+2026-08-28T23:55:16.529206900 -  Perfil 'prueba' cerrado.
+2026-08-30T12:00:31.358947200 -  Todas las aplicaciones cerradas.
+2026-08-30T12:00:31.845062700 - ⚠️ No hay procesos abiertos para el modo: Trabajo
+2026-08-30T12:02:26.852667800 -  Todas las aplicaciones cerradas.
+2026-08-30T12:32:20.723623800 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-30T12:32:20.809704400 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-30T12:32:22.658359200 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-30T12:33:10.666577500 - Cerrado suavemente.
+2026-08-30T12:33:11.168067100 - Cerrado suavemente.
+2026-08-30T12:33:11.669498100 - Cerrado suavemente.
+2026-08-30T12:33:11.670488400 -  Perfil 'xd' cerrado.
+2026-08-30T12:34:40.626993500 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-08-30T12:34:42.318605100 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-08-30T12:35:00.928037200 - Cerrado suavemente.
+2026-08-30T12:35:01.431808200 - Cerrado suavemente.
+2026-08-30T12:35:01.432806400 -  Perfil 'Telecomunicaciones' cerrado.
+2026-08-30T12:42:12.969164400 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-30T12:42:13.035905400 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-30T12:42:13.126768800 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-30T12:42:15.903597100 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-08-30T12:42:28.950275900 - Cerrado suavemente.
+2026-08-30T12:42:29.451827600 - Cerrado suavemente.
+2026-08-30T12:42:29.954817500 - Cerrado suavemente.
+2026-08-30T12:42:30.458946400 - Cerrado suavemente.
+2026-08-30T12:42:30.459920400 -  Perfil 'prueba 2 ram' cerrado.
+2026-08-30T12:42:36.653568100 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-30T12:42:38.153697300 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-30T12:42:39.836685200 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-30T12:42:42.107006500 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-08-30T12:42:52.903932900 - ⚠️ C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe ya está abierta.
+2026-08-30T12:42:54.404273700 - ⚠️ C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe ya está abierta.
+2026-08-30T12:42:55.903908200 - ⚠️ C:\Program Files\Notepad++\notepad++.exe ya está abierta.
+2026-08-30T12:43:02.844798900 -  Perfil 'xd' cerrado.
+2026-08-30T12:43:10.160888100 - ⚠️ No hay procesos abiertos para el modo: Telecomunicaciones
+2026-08-30T12:43:14.872855300 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-08-30T12:43:16.687710500 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-08-30T12:43:20.994483200 - Cerrado suavemente.
+2026-08-30T12:43:21.496810200 - Cerrado suavemente.
+2026-08-30T12:43:21.496810200 -  Perfil 'Telecomunicaciones' cerrado.
+2026-08-30T12:43:22.398807700 - ⚠️ No hay procesos abiertos para el modo: Telecomunicaciones
+2026-08-30T12:43:22.628159400 - ⚠️ No hay procesos abiertos para el modo: Telecomunicaciones
+2026-08-30T12:43:23.522887900 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-08-30T12:43:25.277829400 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-08-30T12:43:34.433586900 - Cerrado suavemente.
+2026-08-30T12:43:34.935548900 - Cerrado suavemente.
+2026-08-30T12:43:34.936546300 -  Perfil 'Telecomunicaciones' cerrado.
+2026-08-30T12:43:38.759002100 - Cerrado suavemente.
+2026-08-30T12:43:39.260200600 - Cerrado suavemente.
+2026-08-30T12:43:39.762974900 - Cerrado suavemente.
+2026-08-30T12:43:40.265154 - Cerrado suavemente.
+2026-08-30T12:43:40.266153900 -  Perfil 'prueba 2 ram' cerrado.
+2026-08-30T12:43:46.828804600 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-30T12:43:48.325444800 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-30T12:43:49.983974200 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-30T12:43:58.765321400 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-08-30T12:44:00.389879600 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-08-30T12:44:08.837256200 - ⚠️ C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe ya está abierta.
+2026-08-30T12:44:10.337612100 - ⚠️ C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe ya está abierta.
+2026-08-30T12:44:11.837899400 - ⚠️ C:\Program Files\Notepad++\notepad++.exe ya está abierta.
+2026-08-30T12:44:13.602600 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-08-30T12:44:35.255583100 - Cerrado suavemente.
+2026-08-30T12:44:35.256583500 -  Perfil 'prueba 2 ram' cerrado.
+2026-08-30T12:44:40.911409600 - Cerrado suavemente.
+2026-08-30T12:44:41.413038200 - Cerrado suavemente.
+2026-08-30T12:44:41.414015700 -  Perfil 'Telecomunicaciones' cerrado.
+2026-08-30T12:44:44.761490900 - Cerrado suavemente.
+2026-08-30T12:44:45.264871800 - Cerrado suavemente.
+2026-08-30T12:44:45.766822400 - Cerrado suavemente.
+2026-08-30T12:44:45.766822400 -  Perfil 'xd' cerrado.
+2026-08-30T12:49:43.154169300 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-30T12:49:45.413881600 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-30T12:49:47.539053500 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-30T12:49:50.477465900 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-08-30T12:53:17.841184400 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-08-30T12:53:19.375786500 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-08-30T12:54:06.474738 - Cerrado suavemente.
+2026-08-30T12:54:06.975937800 - Cerrado suavemente.
+2026-08-30T12:54:06.976583700 -  Perfil 'Telecomunicaciones' cerrado.
+2026-08-30T12:54:09.302621400 - ⚠️ No hay procesos abiertos para el modo: Telecomunicaciones
+2026-08-30T12:54:11.806040800 - Cerrado suavemente.
+2026-08-30T12:54:12.307172500 - Cerrado suavemente.
+2026-08-30T12:54:12.809368500 - Cerrado suavemente.
+2026-08-30T12:54:13.311203 - Cerrado suavemente.
+2026-08-30T12:54:13.311203 -  Perfil 'prueba 2 ram' cerrado.
+2026-08-30T12:54:14.774845900 - ⚠️ No hay procesos abiertos para el modo: xd
+2026-08-30T12:59:21.434812900 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-08-30T12:59:23.669151200 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-08-30T12:59:25.357249800 - Abierto: C:\Program Files\Notepad++\notepad++.exe
+2026-08-30T12:59:28.242104300 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-08-30T12:59:29.304756100 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-08-30T12:59:37.944693600 - ⚠️ C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe ya está abierta.
+2026-08-30T12:59:39.444449300 - ⚠️ C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe ya está abierta.
+2026-08-30T12:59:40.945109100 - ⚠️ C:\Program Files\Notepad++\notepad++.exe ya está abierta.
+2026-08-30T12:59:42.941802300 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-08-30T13:00:33.803843100 - Cerrado suavemente.
+2026-08-30T13:00:33.804342600 -  Perfil 'prueba 2 ram' cerrado.
+2026-08-30T13:00:36.108490800 - Cerrado suavemente.
+2026-08-30T13:00:36.611265900 - Cerrado suavemente.
+2026-08-30T13:00:36.611766300 -  Perfil 'Telecomunicaciones' cerrado.
+2026-08-30T13:00:39.250827300 - Cerrado suavemente.
+2026-08-30T13:00:39.752357700 - Cerrado suavemente.
+2026-08-30T13:00:40.253946500 - Cerrado suavemente.
+2026-08-30T13:00:40.254446800 -  Perfil 'xd' cerrado.
+2026-08-30T13:11:44.648238800 - ⚠️ No hay procesos abiertos para el modo: xd
+2026-08-30T13:11:46.639887900 - ⚠️ No hay procesos abiertos para el modo: Telecomunicaciones
+2026-08-30T13:11:48.217844900 - ⚠️ No hay procesos abiertos para el modo: xd
+2026-08-30T15:07:34.794979800 - ⚠️ No hay procesos abiertos para el modo: xd
+2026-08-30T15:30:47.164710800 - ⚠️ No hay procesos abiertos para el modo: xd
+2026-10-12T19:57:09.771551600 -  No hay procesos abiertos para el modo: xd
+2026-10-21T15:01:06.674340100 - Abierto: C:\Users\amoam\Desktop\pvzge-0.8.2.exe
+2026-10-21T15:01:06.967602700 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-10-21T15:01:28.521447400 - Cerrado suavemente.
+2026-10-21T15:01:29.025460600 - Cerrado suavemente.
+2026-10-21T15:01:29.026461900 -  Perfil 'pruye' cerrado.
+2026-10-24T09:53:27.153904200 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-10-24T09:53:27.279633600 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-10-24T09:54:34.594942200 - Cerrado suavemente.
+2026-10-24T09:54:35.097462900 - Cerrado suavemente.
+2026-10-24T09:54:35.098462300 -  Perfil 'maxss' cerrado.
+2026-10-29T21:21:08.057988800 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-10-29T21:21:10.186861500 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-10-29T21:21:22.586635700 - Cierre forzoso enviado a: WINWORD.EXE
+2026-10-29T21:21:22.593638200 - Cierre forzoso enviado a: EXCEL.EXE
+2026-10-29T21:21:22.594637200 -  Perfil 'Telecomunicaciones' cerrado completamente.
+2026-10-29T21:21:27.324998300 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-10-29T21:21:32.321699 - Cierre forzoso enviado a: Obsidian.exe
+2026-10-29T21:21:32.321699 -  Perfil 'maxIDE' cerrado completamente.
+2026-10-29T21:22:05.713562100 - Error al abrir C:\Users\amoam\Desktop\pvzge-0.8.2.exe: Cannot run program "C:\Users\amoam\Desktop\pvzge-0.8.2.exe": CreateProcess error=4551, Una directiva de Control de aplicaciones bloqueó este archivo
+2026-10-29T21:22:05.803640100 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-10-29T21:22:29.027969100 - Cierre forzoso enviado a: pvzge-0.8.2.exe
+2026-10-29T21:22:29.034968100 - Cierre forzoso enviado a: netbeans64.exe
+2026-10-29T21:22:29.035967800 -  Perfil 'pruye' cerrado completamente.
+2026-10-29T21:22:32.393133900 - Abierto: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+2026-10-29T21:22:33.911582200 - Abierto: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+2026-10-29T21:22:39.928320300 - Cierre forzoso enviado a: WINWORD.EXE
+2026-10-29T21:22:39.931834400 - Cierre forzoso enviado a: EXCEL.EXE
+2026-10-29T21:22:39.931834400 -  Perfil 'Telecomunicaciones' cerrado completamente.
+2026-10-29T21:22:41.442334300 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-10-29T21:22:44.212017400 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-10-29T21:22:44.435715900 -  Error: No se encontró la aplicación en la ruta: C:\Program Files\Notepad++\notepad++.exe
+2026-10-29T21:23:15.481397900 - Cierre forzoso enviado a: Obsidian.exe
+2026-10-29T21:23:15.487397700 - Cierre forzoso enviado a: Code.exe
+2026-10-29T21:23:15.494398800 - Cierre forzoso enviado a: notepad++.exe
+2026-10-29T21:23:15.494398800 -  Perfil 'xd' cerrado completamente.
+2026-11-11T14:49:22.595338900 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T14:49:25.279597100 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-11T14:49:27.970464800 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-11T14:49:30.189470100 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-11T14:49:46.551994200 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:49:47.173227200 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-11T14:49:47.749681600 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-11T14:49:48.167179800 - Cierre forzoso enviado a: Code.exe
+2026-11-11T14:49:48.168715600 -  Perfil 'prueba clase innovacion' cerrado completamente.
+2026-11-11T14:49:51.048459300 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T14:49:52.765254400 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-11T14:49:54.614521700 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-11T14:49:56.262533700 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-11T14:50:14.440995 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:50:14.631000300 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-11T14:50:15.015633 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-11T14:50:15.379415800 - Cierre forzoso enviado a: Code.exe
+2026-11-11T14:50:15.380415600 -  Perfil 'prueba clase innovacion' cerrado completamente.
+2026-11-11T14:50:15.964885100 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T14:50:17.667821 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-11T14:50:19.336819700 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-11T14:50:20.854172500 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-11T14:51:00.867015800 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:51:00.872983700 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-11T14:51:00.877979 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-11T14:51:00.882982900 - Cierre forzoso enviado a: Code.exe
+2026-11-11T14:51:00.883978400 -  Perfil 'prueba clase innovacion' cerrado completamente.
+2026-11-11T14:51:03.394343300 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T14:51:05.128749600 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-11T14:51:06.401620900 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-11T14:51:07.903403800 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-11T14:51:29.185078200 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:51:29.189779 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-11T14:51:29.194324500 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-11T14:51:29.200325900 - Cierre forzoso enviado a: Code.exe
+2026-11-11T14:51:29.200325900 -  Perfil 'prueba clase innovacion' cerrado completamente.
+2026-11-11T14:51:30.139551700 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T14:51:31.850730400 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-11T14:51:33.149419100 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-11T14:51:34.651956700 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-11T14:52:04.450005400 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:52:04.456007200 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-11T14:52:04.468005500 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-11T14:52:04.474010900 - Cierre forzoso enviado a: Code.exe
+2026-11-11T14:52:04.474010900 -  Perfil 'prueba clase innovacion' cerrado completamente.
+2026-11-11T14:53:00.301390300 - Abierto: C:\Program Files\Cisco Packet Tracer 9.0.1\bin\PacketTracer.exe
+2026-11-11T14:53:01.035466600 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T14:53:27.026153600 - Cierre forzoso enviado a: PacketTracer.exe
+2026-11-11T14:53:27.032152 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:53:27.032152 -  Perfil 'maxIDE' cerrado completamente.
+2026-11-11T14:53:28.149228200 - Abierto: C:\Program Files\Cisco Packet Tracer 9.0.1\bin\PacketTracer.exe
+2026-11-11T14:53:29.649482800 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T14:53:47.287647600 - !! C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe ya está abierta.
+2026-11-11T14:53:49.006202200 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-11T14:53:50.299814800 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-11T14:53:51.798583 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-11T14:54:03.774383300 - Cierre forzoso enviado a: PacketTracer.exe
+2026-11-11T14:54:03.780381800 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:54:03.781385400 -  Perfil 'maxIDE' cerrado completamente.
+2026-11-11T14:54:13.015706400 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T14:54:13.037835700 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-11T14:54:13.044831700 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-11T14:54:13.050801500 - Cierre forzoso enviado a: Code.exe
+2026-11-11T14:54:13.051814 -  Perfil 'prueba clase innovacion' cerrado completamente.
+2026-11-11T15:05:02.136100600 - Abierto: C:\Program Files\Cisco Packet Tracer 9.0.1\bin\PacketTracer.exe
+2026-11-11T15:05:03.819442300 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T15:05:28.504226100 - Cierre forzoso enviado a: PacketTracer.exe
+2026-11-11T15:05:28.931302400 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-11T15:05:28.932304700 -  Perfil 'maxIDE' cerrado completamente.
+2026-11-11T15:05:40.128048100 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-11T15:05:42.206242300 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-11T15:05:43.187996700 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-11T15:05:45.215432600 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-12T08:36:51.740281 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-12T08:36:51.829153700 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-12T08:36:52.377391900 -  Error: No se encontró la aplicación en la ruta: C:\Program Files\Notepad++\notepad++.exe
+2026-11-12T08:39:08.842425600 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-12T08:39:08.852458300 - Cierre forzoso enviado a: Code.exe
+2026-11-12T08:39:08.862973100 - Cierre forzoso enviado a: notepad++.exe
+2026-11-12T08:39:08.863972900 -  Perfil 'xd' cerrado completamente.
+2026-11-12T08:45:22.050233700 - Cierre forzoso enviado a: PacketTracer.exe
+2026-11-12T08:45:22.060236300 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-12T08:45:22.061235800 -  Perfil 'maxIDE' cerrado completamente.
+2026-11-12T10:39:31.330336900 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-12T10:39:33.094598400 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-12T10:39:36.220293 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-12T10:39:36.236548100 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-12T10:39:54.220573800 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-12T10:39:54.226662300 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-12T10:39:54.233981700 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-12T10:39:54.240914900 - Cierre forzoso enviado a: Code.exe
+2026-11-12T10:39:54.242253400 -  Perfil 'prueba clase innovacion' cerrado completamente.
+2026-11-12T10:40:02.528627600 - Abierto: C:\Program Files\NetBeans-20\netbeans\bin\netbeans64.exe
+2026-11-12T10:40:04.201621200 - Abierto: C:\Users\amoam\OneDrive\Documentos\CompactGUI.exe
+2026-11-12T10:40:05.536729300 - Abierto: C:\Users\amoam\AppData\Local\Programs\Obsidian\Obsidian.exe
+2026-11-12T10:40:07.036521500 - Abierto: C:\Users\amoam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-11-12T10:40:19.250426300 - Cierre forzoso enviado a: netbeans64.exe
+2026-11-12T10:40:19.253419700 - Cierre forzoso enviado a: CompactGUI.exe
+2026-11-12T10:40:19.255424500 - Cierre forzoso enviado a: Obsidian.exe
+2026-11-12T10:40:19.258422 - Cierre forzoso enviado a: Code.exe
+2026-11-12T10:40:19.259420600 -  Perfil 'prueba clase innovacion' cerrado completamente.

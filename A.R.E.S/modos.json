@@ -1,0 +1,105 @@
+[
+  {
+    "nombre": "xd",
+    "aplicaciones": [
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Users\\amoam\\AppData\\Local\\Programs\\Obsidian\\Obsidian.exe",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Users\\amoam\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Program Files\\Notepad++\\notepad++.exe",
+        "palabrasClave": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Telecomunicaciones",
+    "aplicaciones": [
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+        "palabrasClave": ""
+      }
+    ]
+  },
+  {
+    "nombre": "pruye",
+    "aplicaciones": [
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Users\\amoam\\Desktop\\pvzge-0.8.2.exe",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Program Files\\NetBeans-20\\netbeans\\bin\\netbeans64.exe",
+        "palabrasClave": ""
+      }
+    ]
+  },
+  {
+    "nombre": "maxIDE",
+    "aplicaciones": [
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Program Files\\Cisco Packet Tracer 9.0.1\\bin\\PacketTracer.exe",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Program Files\\NetBeans-20\\netbeans\\bin\\netbeans64.exe",
+        "palabrasClave": ""
+      }
+    ]
+  },
+  {
+    "nombre": "prueba clase innovacion",
+    "aplicaciones": [
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Program Files\\NetBeans-20\\netbeans\\bin\\netbeans64.exe",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Users\\amoam\\OneDrive\\Documentos\\CompactGUI.exe",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Users\\amoam\\AppData\\Local\\Programs\\Obsidian\\Obsidian.exe",
+        "palabrasClave": ""
+      },
+      {
+        "id": 0,
+        "nombre": "App",
+        "ruta": "C:\\Users\\amoam\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "palabrasClave": ""
+      }
+    ]
+  }
+]
